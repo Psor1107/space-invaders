@@ -1,0 +1,12 @@
+com\br\gsanchez\ui\UIJogo.class
+com\br\gsanchez\engine\Processador.class
+com\br\gsanchez\ui\UIInicio.class
+com\br\gsanchez\engine\Jogo.class
+com\br\gsanchez\ui\UIInicio$1.class
+com\br\gsanchez\ob\ObProjetil.class
+com\br\gsanchez\ob\ObInimigo.class
+com\br\gsanchez\engine\Inicio.class
+com\br\gsanchez\input\Input.class
+com\br\gsanchez\ob\ObNave.class
+com\br\gsanchez\ui\UIInicio$2.class
+com\br\gsanchez\ob\ObObjeto.class
