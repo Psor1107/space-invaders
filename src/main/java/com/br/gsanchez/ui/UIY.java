@@ -41,7 +41,7 @@ public class UIY extends JFrame {
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
         //jPanel1.setBackground(new Color(1, 1, 1));
-        URL imageUrl = ClassLoader.getSystemResource("Ini.png");
+        URL imageUrl = ClassLoader.getSystemResource("resources/Ini.png");
         JLabel jPanel1 = new JLabel(new ImageIcon(imageUrl));
 
         jPanel1.setBorder(BorderFactory.createLineBorder(new Color(254, 254, 254), 3));
